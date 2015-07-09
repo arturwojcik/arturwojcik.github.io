@@ -1,9 +1,0 @@
----
-layout:     post
-title:      "Test"
-subtitle:   "New."
-date:       2015-07-01 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-01.jpg"
----
-<p>dasdasd</p>
